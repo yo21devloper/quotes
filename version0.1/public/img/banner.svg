@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="440px" viewBox="0 0 1440 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>banner</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="440"></rect>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FE6DA0" offset="0%"></stop>
+            <stop stop-color="#FC3B67" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#FE9568" offset="0%"></stop>
+            <stop stop-color="#FC3767" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#FFC6A0" offset="0%"></stop>
+            <stop stop-color="#FD9467" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#9AFFEF" offset="0%"></stop>
+            <stop stop-color="#50E3C2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home---v1" transform="translate(0.000000, -81.000000)">
+            <g id="banner" transform="translate(0.000000, 81.000000)">
+                <g id="Bitmap">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#160427" xlink:href="#path-1"></use>
+                </g>
+                <g id="circles" transform="translate(25.000000, 30.000000)">
+                    <circle id="Oval" fill="url(#linearGradient-3)" cx="94" cy="281" r="20"></circle>
+                    <circle id="Oval-Copy-5" fill="url(#linearGradient-4)" cx="1381" cy="25" r="15"></circle>
+                    <circle id="Oval-Copy-4" fill="url(#linearGradient-3)" cx="49" cy="25" r="5"></circle>
+                    <circle id="Oval-Copy-7" fill="url(#linearGradient-3)" cx="1326" cy="114" r="5"></circle>
+                    <circle id="Oval-Copy-9" fill="url(#linearGradient-5)" cx="1253" cy="266" r="15"></circle>
+                    <circle id="Oval-Copy-12" fill="url(#linearGradient-5)" cx="1248" cy="10" r="10"></circle>
+                    <circle id="Oval-Copy-10" fill="url(#linearGradient-5)" cx="59" cy="129" r="10"></circle>
+                    <circle id="Oval-Copy-13" fill="url(#linearGradient-5)" cx="237" cy="368" r="5"></circle>
+                    <circle id="Oval-Copy-3" fill="url(#linearGradient-6)" cx="184" cy="40" r="15"></circle>
+                    <circle id="Oval-Copy-11" fill="url(#linearGradient-6)" cx="5" cy="378" r="5"></circle>
+                    <circle id="Oval-Copy-8" fill="url(#linearGradient-6)" cx="1366" cy="353" r="20"></circle>
+                    <circle id="Oval-Copy-6" fill="url(#linearGradient-6)" cx="1342" cy="200" r="10"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

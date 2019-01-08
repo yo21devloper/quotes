@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="13px" viewBox="0 0 14 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ion-stats-bars - Ionicons</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vid-1" transform="translate(-11.000000, -131.000000)" fill="#FFFFFF">
+            <g id="content">
+                <g transform="translate(11.000000, 127.000000)">
+                    <path d="M3.75,16.75 L3.75,4.25 L6.25,4.25 L6.25,16.75 L3.75,16.75 Z M0,16.75 L0,13 L2.5,13 L2.5,16.75 L0,16.75 Z M7.5,16.75 L7.5,10.5 L10,10.5 L10,16.75 L7.5,16.75 Z M11.25,16.75 L11.25,8 L13.75,8 L13.75,16.75 L11.25,16.75 Z" id="ion-stats-bars---Ionicons"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

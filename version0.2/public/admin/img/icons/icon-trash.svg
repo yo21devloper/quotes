@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vid-1" transform="translate(-59.000000, -131.000000)" fill="#FFFFFF">
+            <g id="content">
+                <g transform="translate(11.000000, 127.000000)">
+                    <path d="M49,14.65625 L49,7 L57,7 L57,14.65625 C57,15.0104184 56.8645847,15.3229153 56.59375,15.59375 C56.3229153,15.8645847 56.0104184,16 55.65625,16 L50.34375,16 C49.9895816,16 49.6770847,15.8645847 49.40625,15.59375 C49.1354153,15.3229153 49,15.0104184 49,14.65625 Z M58,5 L58,6 L48,6 L48,5 L50.5,5 L51.34375,4 L54.65625,4 L55.5,5 L58,5 Z" id=""></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

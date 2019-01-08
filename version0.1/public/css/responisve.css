@@ -1,0 +1,300 @@
+@media screen and (min-width: 1400px) {
+    .container {
+        max-width: 1200px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    footer .footer-menu ul {
+	    padding-left: 90px;
+	}
+	footer .footer-menus ul {
+		padding-left: 20px;
+	}
+	.quotes-home .qotes-img .qotes-border,
+	.quotes-home .qotes-img .qotes-tex {
+		margin: 10px;
+	}
+	.quotes-home .qotes-img .qotes-tex h5{
+		font-size: 28px;
+	}
+	.quotes-home .qotes-img .qotes-tex .quotes-hght {
+		height: 80px;
+	}
+	
+}
+
+@media screen and (min-width: 992px) {
+	.navbar-expand-lg .navbar-collapse {
+	    margin-top: -1px;
+	}	
+
+	li.nav-item.border-gradient {
+    	margin-top: 1px;
+	}
+}
+
+
+@media screen and (min-width: 991px) and (max-width: 1200px){
+	.banner-wrapper .banner .slider-wall {
+		height: 360px;
+	}
+
+	.banner-wrapper .banner .banner-text h4 {
+    	font-size: 55px;
+	}
+
+	.banner-wrapper .banner .banner-text h3 {
+    	font-size: 40px;
+	}
+	.banner-wrapper .banner .banner-text {
+		height: 120px;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	.quoteslok-section {
+		padding: 40px 0;
+	}
+	.topics-box ul li {
+		width: 25%;
+		height: 100px;
+	}
+	.quoteslok-quotes-main {
+		padding: 40px 0;
+	}
+	.quotes-home .qotes-img .qotes-tex h5 {
+		font-size: 18px;
+	}
+	.quotes-home .qotes-img .qotes-tex h4,
+	.quotes-home .qotes-img .qotes-tex p {
+		font-size: 14px;
+	}
+	.quotes-home .qotes-img .qotes-tex .quotes-hght {
+    	height: 60px;
+	}
+	.navbar-toggler-icon {
+		margin-top: 1px;
+	}
+	.navbar {
+	    padding: .3rem 0;
+	    padding-top: .3rem !important;
+	   
+	}
+	.quoteslok-tabs .quoteslok-tabs-menu ul li a {
+	    padding: 6px 30px 5px;
+	    font-size: 16px;
+	}
+
+	div#navbarSupportedContent {
+	    position: absolute;
+	    z-index: 999;
+	    top: 68px;
+	    background: #fff;
+	    right: 0;
+	    left: 0;
+	    padding-bottom: 15px;
+	}
+	.search-box input {
+	    font-size: 32px;
+	    padding: 4px 0;	
+	}
+	.hide-mobile {
+		display: none;
+	}
+	.mobile-search {
+		display: block;
+		margin-right: 0;
+	}
+	.quoteslok-tabs .container {
+		max-width: 100%;
+	}
+	.masonry-wrapper {
+	    padding: 40px 0;
+	}
+	.grid li {
+		width: 33.33%;
+	}
+	.navbar-nav-scroll {
+	    max-width: 100%;
+	    overflow: hidden;
+	}
+
+	.navbar-nav-scroll ul {
+	    padding-bottom: 2rem;
+	    overflow-x: auto;
+	    white-space: nowrap;
+	    -webkit-overflow-scrolling: touch;
+	}
+
+	.navbar-light .navbar-brand {
+		font-size: 2rem;
+		 margin-top: 1px;
+	}
+	
+
+}
+
+@media (max-width: 991px){
+	.footer-menu.social-icon ul{
+		text-align: left;
+	}
+	#navbarSupportedContent li.dropdown{
+		text-align: center;
+		margin: 10px auto !important;
+	}
+	.banner-wrapper{
+		padding-bottom: 25%;
+	}
+}
+
+@media screen and (min-width: 640px) and (max-width: 991px){
+
+	.banner-wrapper .banner .banner-text h4 {
+    	font-size: 45px;
+	}
+
+	.banner-wrapper .banner .banner-text h3 {
+    	font-size: 30px;
+	}
+	.banner-wrapper .banner .banner-text {
+		height: 100px;
+	}
+	
+}
+
+@media screen and (max-width: 767px) {
+	a.nav-link.login.viewAll {
+    	margin-top: 15px;
+	}
+	.quoteslok-quotes-main {
+    	padding: 30px 0;
+	}
+	.quoteslok-quotes-main .col-md-4 {
+		-ms-flex: 0 0 33.333333%;
+		flex: 0 0 33.333333%;
+		max-width: 33.333333%;
+	}
+	.quotes-home {
+		margin-bottom: 15px;
+	}
+	div#navbarSupportedContent {
+		top: 60px;
+	}
+	.navbar-light .navbar-brand {
+	    font-size: 1.8rem;
+	}
+	.quoteslok-tabs .quoteslok-tabs-menu ul li:first-child {
+    	margin-right: 20px;
+	}
+	.quoteslok-tabs .quoteslok-tabs-menu ul li a {
+    	padding: 6px 20px 5px;
+	}
+	.grid li {
+		width: 50%;
+	}
+	.masonry-wrapper {
+    	padding: 15px 0;	
+	}
+	.container {
+    	max-width: 100%;
+	}
+	.navbar-expand-lg>.container, .navbar-expand-lg>.container-fluid {
+	    padding-right: 15px;
+	    padding-left: 15px;
+	}
+
+	.masonry-quotes-box .masonry-quotes-icon i {
+	    font-size: 18px;
+	}
+	.masonry-quotes-box .masonry-content {
+    	padding: 10px 15px;
+	}
+
+	.search-box input {
+	    font-size: 26px;
+	}
+
+	.quoteslok-tabs .quoteslok-tabs-menu ul {
+	    padding: 20px 0;
+	}
+	footer .footer-menu ul {
+		padding-left: 0 ;
+	}
+	.footer-menu.social-icon ul{
+		text-align: left;
+	}
+	footer{
+		padding: 30px 0;
+	}
+	.banner-wrapper{
+		padding-bottom: 30%;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	
+	.banner-wrapper .banner .banner-text h4 {
+    	font-size: 30px;
+    	margin-bottom: 0;
+	}
+
+	.banner-wrapper .banner .banner-text h3 {
+    	font-size: 20px;
+	}
+	.banner-wrapper .banner .banner-text {
+		
+	}
+
+	.banner-wrapper .banner img {
+		height: 200px;
+	}
+}
+
+@media screen and (max-width: 639px) {
+
+	.quoteslok-quotes-main .col-md-4 {
+		-ms-flex: 100%;
+		flex: 100%;
+		max-width: 100%;
+	}
+
+}
+
+@media (max-width: 576px){
+	.footer-menu{
+		text-align: center;
+	}
+	.footer-menu.social-icon ul{
+		text-align: center;
+	}
+	.right-footer-menu{
+		margin-top: -15px;
+	}
+	#navbarSupportedContent li.dropdown{
+		text-align: center;
+		margin: 10px auto !important;
+	}
+}
+@media screen and (max-width: 575px) {
+	.topics-box ul li {
+    	width: 33.333%;
+	}
+}
+
+
+@media screen and (max-width: 480px) {
+	.grid li {
+		width: 100%;
+	}
+	.topics-box ul li {
+    	width: 50%;
+    	height: 80px;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	.topics-box ul li {
+    	width: 100%;
+    }
+}
